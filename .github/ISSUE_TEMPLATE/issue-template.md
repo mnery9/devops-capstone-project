@@ -1,12 +1,3 @@
----
-name: Issue template
-about: Enter information for your issue
-title: ''
-labels: ''
-assignees: ''
-
----
-
 **As a** [role]  
 **I need** [function]  
 **So that** [benefit]  
